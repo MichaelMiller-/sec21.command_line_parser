@@ -1,0 +1,8 @@
+{
+  "name": "sec21::command line parser",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
